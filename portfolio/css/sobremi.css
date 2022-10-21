@@ -1,0 +1,23 @@
+.sobre-mi {
+  background-color: #EAF2FD; 
+  display: flex;
+  flex-direction: column;
+  padding: 1rem 1rem; 
+  font-family: var(--fuente); 
+  align-items: flex-start;
+}  
+
+.sobre__parrafo {
+  margin: 0.5rem 0;
+}
+
+@media (min-width: 769px) {
+  .sobre-div {
+    width: 900px; 
+    margin: 0 auto;
+    padding: 3rem; 
+  } 
+
+  
+
+}
